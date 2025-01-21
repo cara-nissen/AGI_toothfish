@@ -11,7 +11,7 @@ These scripts are needed to postprocess the original model output. The scripts c
 
 Postprocessed model output can be found on Zenodo (https://doi.org/10.5281/zenodo.10645157).
 
-Habitat masks of all species can also be found on Zenodo (https://doi.org/10.5281/zenodo.10598488).
+Habitat masks of all species can also be found on Zenodo (https://doi.org/10.5281/zenodo.10598488 and https://doi.org/10.5281/zenodo.14576102).
 
 Original model output can be found in the World Data Center for Climate (WDCC) under the following DOIs:
 - `simA, historical`: https://doi.org/10.26050/WDCC/FESOM14-REcoM2_A_hist_vA_vC
